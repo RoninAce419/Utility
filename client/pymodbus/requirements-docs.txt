@@ -6,6 +6,6 @@ pyserial==3.4       # Required to parse some files
 redis==2.10.6       # Required to parse some files
 Sphinx==1.6.5
 sphinx-rtd-theme==0.2.4
-SQLAlchemy==1.1.15  # Required to parse some files
+SQLAlchemy==1.3.0  # Required to parse some files
 twisted>= 12.2.0    # Required to parse some files
 
